@@ -1,0 +1,14 @@
+base_url = "https://artur.poa.br"
+
+title = "artur.poa.br"
+description = "Artur's website"
+default_language = "en"
+
+compile_sass = true
+
+build_search_index = false
+
+[markdown]
+highlight_code = true
+
+[extra]
