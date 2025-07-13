@@ -11,8 +11,9 @@ footer = false
 name = "artur.poa.br"
 id = "arcstur"
 bio = """
-wikimedian, developer, math teacher.
-free knowledge, free software, mate.
+Software developer, math teacher, wikimedian, free software and free knowledge enthusiast.
+Born and raised in Porto Alegre, Brazil.
+Loves to drink mate 🧉
 """
 avatar = "img/avatar.webp"
 links = [
