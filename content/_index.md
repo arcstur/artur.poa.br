@@ -8,13 +8,14 @@ lang = 'en'
 footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
-name = "artur.poa.br"
-id = "arcstur"
+
+name = "artur.poa.br 🧉🌻"
+# id = "arcstur"
 bio = """
 Software developer, math teacher, wikimedian, free software and free knowledge enthusiast.
 Born and raised in Porto Alegre, Brazil.
-Loves to drink mate 🧉
 """
+
 avatar = "img/avatar.webp"
 links = [
     { name = "Wikimedia", icon = "globe", url = "https://meta.wikimedia.org/wiki/User:Arcstur" },
@@ -29,4 +30,4 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hi, I'm ...
+Hello, world! This is my little corner on the internet. Feel free to look around.
