@@ -34,9 +34,9 @@ anchors = "on"
 
 [extra]
 sections = [
-  { name = "posts", path = "/posts", is_external = false },
+  { name = "about", path = "/about", is_external = false },
 ]
-blog_section_path = "/posts"
+blog_section_path = "/blog"
 
 back_link_text = "Back" # Text of the back button
 force_theme = false # false | "light" | "dark"
